@@ -10,7 +10,7 @@ Instalowanie kompilatora
 ```bash
 pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain
 ```
-4.Dodaj ścieżkę do PATH "C:\msys64\ucrt64\bin" jak instalowałeś wszystko domyślnie
+4.Dodaj ścieżkę do PATH "C:\msys64\ucrt64\bin" jak instalowałeś wszystko domyślnie  
 5.W visual studio code kliknij f5 i z listy u góry na środku wybierz 3 obcję 
 
 ###Jak nie działa to pisz do mnie pomogę.
