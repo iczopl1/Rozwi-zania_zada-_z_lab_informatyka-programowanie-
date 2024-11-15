@@ -36,4 +36,4 @@ Uruchomianie
 1. Sklonuj repozytorium:
    ```bash
    git clone https://github.com/iczopl1/Rozwi-zania_zada-_z_lab_informatyka-programowanie-.git
-   ```
+   ```  
