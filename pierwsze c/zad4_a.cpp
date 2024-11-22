@@ -1,12 +1,12 @@
 #include <stdio.h>
 int main()
 {
-    int i, potega, li_p;
+    int i, potega, do_jakiej_potegi;
     printf("Podaj do jakiej potęgi: ");
-    scanf("%i", &li_p);
+    scanf("%i", &do_jaiej_potegi);
     potega = 1;
     i = 1;
-    while (i <= li_p)
+    while (i <= do_jakiej_potegi)
     {
         printf("%i\n", potega);
         potega = potega * 2;
