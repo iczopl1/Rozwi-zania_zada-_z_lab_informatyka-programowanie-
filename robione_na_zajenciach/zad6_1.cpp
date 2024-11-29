@@ -7,7 +7,6 @@ int main()
     int ilosc_liter_malych = 0, ilosc_liter_duzych = 0, ilosc_liczb = 0, ilosc_znakow_specialnych = 0;
     char znak;
     scanf("%s", &tab);
-    //jakakolwiek pentla która się skończy gdy tab[i]==o wartość 0 w tab to znak końca tekstu
     while (true)
     {
         if (tab[i] == 0)
